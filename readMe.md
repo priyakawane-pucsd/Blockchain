@@ -1,4 +1,4 @@
-###########################################This the blockchain for Drug traceability###############################################################
+################This the blockchain for Drug traceability###########################
 
 
 ##How to run the code
